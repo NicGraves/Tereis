@@ -117,6 +117,4 @@ public class Game {
             grid.checkRows();
             display.update();
         }
-
-
 }
