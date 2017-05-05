@@ -12,8 +12,6 @@ import javax.swing.JFrame;
 import javax.swing.JPanel;
 
 public class Tetris extends JPanel {
-	
-	//This comment is to check if I can alter the code form eclipse and push it to Github from eclipse.
 
 	private Game game;
 
